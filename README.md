@@ -24,8 +24,14 @@ Currently preparing for internships and building projects to showcase my skills.
 2. [**Survey Form**](https://im-srashtiagarwal.github.io/survey-form/)  
    A responsive survey form built with HTML and CSS. Includes fields for user information, dropdown options, radio buttons, and client-side validation for better user experience.
 
-3. [**Cafe Menu**](https://im-srashtiagarwal.github.io/Cafe-menu/)  
+3. [**Cafe Menu**](https://im-srashtiagarwal.github.io/Cafe-menu/)
    A digital cafe menu webpage created using HTML and CSS. Features categorized items, pricing, and styled layout to make browsing easy and visually appealing.
+4. [**Basic Quiz**]()
+5. [**Tribute page**]()
+  
+
+
+   
 
 ---
 
